@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
@@ -19,7 +19,6 @@
   <ItemGroup>
     <Folder Include="Modelos\Dtos\" />
     <Folder Include="PeliculasMapper\" />
-    <Folder Include="Repositorio\IRepositorio\" />
   </ItemGroup>
 
 </Project>
