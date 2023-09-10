@@ -21,4 +21,4 @@ Se implemento seguridad por Bearer Token
 ## Screenshots
 
 ![App Screenshot](https://iili.io/J94h7bp.png)
-
+![App Screenshot](https://iili.io/J94h5eR.md.png)
