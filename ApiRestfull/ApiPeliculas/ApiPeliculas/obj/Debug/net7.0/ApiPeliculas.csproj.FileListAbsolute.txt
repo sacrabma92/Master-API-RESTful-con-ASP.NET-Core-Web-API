@@ -9,6 +9,7 @@ D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPelic
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Core.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Practices.ServiceLocation.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Humanizer.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -43,6 +44,7 @@ D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPelic
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Permissions.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\XAct.Core.PCL.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
@@ -76,3 +78,4 @@ D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPelic
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.pdb
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.genruntimeconfig.cache
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ref\ApiPeliculas.dll
+D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
