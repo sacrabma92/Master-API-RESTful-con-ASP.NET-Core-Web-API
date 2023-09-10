@@ -5,6 +5,8 @@ D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPelic
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.runtimeconfig.json
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.pdb
+D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\AutoMapper.dll
+D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Core.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Identity.dll
 D:\PROYECTOS\C#\Master API RESTful con ASP.NET Core Web API\ApiRestfull\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Humanizer.dll

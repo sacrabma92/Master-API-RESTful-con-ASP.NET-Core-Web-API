@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Yp5bBajs2wb4eFNDy9lMMktv91MeutVufIHXzPdE6L/qt7ypgUAjGmWHsqDd7J9bMCWMIgHNPwcL2QMADTpklg==",
+  "dgSpecHash": "QEoYE9SwghDFvkhXFTMYCXfBgi2JuUWY6FXE5KE2WFAxwebC4NGinqlDm4QuxORJ3izVK3pN+u/IOfgRriBJjQ==",
   "success": true,
   "projectFilePath": "D:\\PROYECTOS\\C#\\Master API RESTful con ASP.NET Core Web API\\ApiRestfull\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karlo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\karlo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
