@@ -22,6 +22,8 @@ namespace ApiPeliculas.Controllers
 
         [HttpGet]
         [AllowAnonymous]
+        //[ResponseCache(Duration = 20)]
+        [ResponseCache(CacheProfileName = "PorDefecto20Segundos")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         public IActionResult GetCategorias()
