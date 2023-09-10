@@ -20,5 +20,5 @@ Se implemento seguridad por Bearer Token
 
 ## Screenshots
 
-![App Screenshot]([https://photos.app.goo.gl/AgzCjbLrcJfMWhiu7])
+![App Screenshot](https://photos.app.goo.gl/nL7AuUsmeV26ipkk7)
 
