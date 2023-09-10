@@ -1,6 +1,6 @@
 
 # API realizada en C#
-
+## Screenshots
 
 API de peliculas con categoria y un login
 
@@ -20,9 +20,3 @@ La base de datos es SQL server
 ## Authors
 
 - [@CarlosRamirez](https://github.com/sacrabma92)
-
-
-## Screenshots
-
-
-![App Screenshot](https://iili.io/J94h5eR.png)
